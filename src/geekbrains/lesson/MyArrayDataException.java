@@ -1,4 +1,5 @@
 package geekbrains.lesson;
 
-public class MyArrayDataException {
+public class MyArrayDataException extends RuntimeException{
+
 }
